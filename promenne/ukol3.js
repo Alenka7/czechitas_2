@@ -1,16 +1,14 @@
-let jirik
+let a = 5
+let b= 10
 
-jirik = 57;
-console.log(jirik)
+let soucet = a + b + 100
 
-jirik = 342;
+console.log(soucet)
 
-let jmeno = "Marian"
+let jmeno = "Alena"
+let prijmeni = "Medková"
 
-console.log(jirik);
+console.log(jmeno + prijmeni)
 
-// prsi - true = pravda
-let prsi = true;
-// nesněží
-let snezi = false;
-
+// user name of current user 
+let usernameOfCurrentUser
