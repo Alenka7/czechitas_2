@@ -1,2 +1,2 @@
 
-import "./promenne/ukol4.js"
+import "./promenne/ukol1.js"
