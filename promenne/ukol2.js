@@ -12,4 +12,3 @@ while (cislo !== 0){
   cislo = Number (prompt("Zadej číslo"))
 }
 
-
