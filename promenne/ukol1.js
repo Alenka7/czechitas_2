@@ -4,7 +4,7 @@ let vek = Number (prompt("Kolik ti je let?"))
 if (vek >= 18 ){
   console.log("Vaše jméno je " + jmenoUzivatele + ", je vám " + vek + " let a tak máte právo řídit auto.")
 } else {
-  console.log("Vase jméno je " + jmenoUzivatele + ", je vám " + vek + " let a tak musíte počkat ještě " + (18 - vek) + " let, než budete moci řídit auto.")
+  console.log("Vase jméno je " + jmenoUzivatele + ", jsou vám " + vek + " měsíce a tak musíte počkat ještě " + ((18 - vek) * 12) + " měsíců, než budete moci řídit auto.")
 }
 
 let a = Number (prompt("Zadejte číslo a."))
